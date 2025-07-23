@@ -1,18 +1,21 @@
 ---
-title: Colophon
+title: About Me
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
 comments: false
 ---
+Hello, my name is Jaylen Robbins I’m a cybersecurity and IT systems professional with a deep-rooted passion for penetration testing (Red Teaming) and implementing security-focused technology solutions (Blue Teaming).
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Over the past several years, I’ve led cybersecurity and system administration efforts across military, government, and corporate environments, including roles with the Defense Health Agency, U.S. Marine Corps, and various defense contractors. My experience spans everything from vulnerability management and compliance with NIST frameworks to managing VMware environments, deploying GPOs, and building automation tools that improve operational efficiency.
 
-If you have a question about him or else, just send a letter to him.
+I hold multiple industry-recognized certifications, including A+, Network+ Security+, CySA+, Pentest+, and SSCP, and I’m always expanding my skills to stay ahead of evolving threats and technologies. As of now I’m currently on path to achieve my HackTheBox Certified Penetration Testing Specialist (CPTS) certification to further my knowledge in the realm of cybersecurity and aide in my ability to test and implement secure controls. Whether it’s implementing STIGs, scanning with Nessus, securing legacy systems, or provisioning VMs in Azure, I approach each challenge with a mindset of precision, security, and service.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+This blog is where I share insights from the field, practical how-to guides, cybersecurity tips, and lessons I’ve learned from the trenches. If you’re into system hardening, automation, or want to better understand how to apply cybersecurity principles in real-world environments—you’re in the right place.
 
-**may u needs ✨**
+Let’s secure the future, one system at a time.
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+**Contacts! ✨**
+
+- Email: jaylen.a.robbins@outlook.com
+- Github: github.com/JaylenRobbins
+- HackTheBox: https://app.hackthebox.com/users/2366578
